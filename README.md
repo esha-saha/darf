@@ -67,19 +67,6 @@ The first two terms are architecture-independent and vanish with a suitable choi
 
 **Limitation:** DARF's number of required features scales with $K \times d$ (timesteps × input dimension), so the model currently targets lower-dimensional distributions; scaling to high-resolution data and deeper (non-shallow) variants of DARF are noted as future work.
 
-## Repository Structure
-
-```
-.
-├── src/               # DARF model, training and sampling code
-├── configs/           # Experiment configuration files
-├── data/              # Dataset loading utilities (Fashion-MNIST, audio)
-├── notebooks/         # Reproducing figures and FID/PSNR tables
-└── README.md
-```
-
-*(See the [code repository](https://github.com/esha-saha/darf) for exact usage instructions.)*
-
 ## Citation
 
 If you use this work, please cite:
