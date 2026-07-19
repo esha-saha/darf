@@ -6,7 +6,7 @@ Esha Saha¹, Giang Tran¹
 ¹ University of Waterloo, Canada
 📧 esaha@uwaterloo.ca, giang.tran@uwaterloo.ca
 
-[Paper (AAAI 2026)](#citation) · [Code](https://github.com/esha-saha/darf)
+[Paper (AAAI 2026 MATH4AI Workshop)](#citation) · [Code](https://github.com/esha-saha/darf)
 
 ---
 
